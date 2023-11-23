@@ -1,0 +1,4 @@
+Produto; Quantidade; Unidade de Medida; Valor da unidade
+Pera: 200; ptc; 5.40
+Morango: 400; ptc; 6.40
+Abacaxi: 200; un; 5.00

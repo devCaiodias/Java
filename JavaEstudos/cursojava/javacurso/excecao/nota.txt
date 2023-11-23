@@ -1,0 +1,4 @@
+Maca = 4.0
+morango = 7.0
+total = 11.0
+Caio gostoso 
